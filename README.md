@@ -8,4 +8,5 @@ Developped by <a href="http://www.agoradeveloppement.com">Agora Developpement</a
 Requirements
 ------------------------
 
-* Odoo 8.0.x
+* Odoo 8.0.x for branch 8.0
+* Odoo 9.0.x for branch 9.0
