@@ -30,7 +30,8 @@
     "description": """
 Lunch Custom
 ====================================
-
+custom lunch report / group by product
+& show the quantity of each product
                     """,
     "depends" : ['lunch'],
     "data" : [
