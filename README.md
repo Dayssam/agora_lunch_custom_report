@@ -1,2 +1,4 @@
 # custom_odoo
-Some custom modules
+Custom lunch report
+
+To print the quantity of each product ordered
