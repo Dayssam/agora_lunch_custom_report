@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<openerp>
-<data>
+<odoo>
     <report
         id="action_report_lunch_order_custom_report"
         string="Lunch Order custom report"
@@ -9,5 +8,4 @@
         name="agora_lunch_custom_report.report_lunch_order_custom_report"
         file="agora_lunch_custom_report.report_lunch_order_custom_report"
     />
-    </data>
-</openerp>
+</odoo>
