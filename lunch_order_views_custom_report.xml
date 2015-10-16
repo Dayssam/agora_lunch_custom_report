@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+    <report
+        id="action_report_lunch_order_custom_report"
+        string="Lunch Order custom report"
+        model="lunch.order.line"
+        report_type="qweb-pdf"
+        name="agora_lunch_custom_report.report_lunch_order_custom_report"
+        file="agora_lunch_custom_report.report_lunch_order_custom_report"
+    />
+    </data>
+</openerp>
