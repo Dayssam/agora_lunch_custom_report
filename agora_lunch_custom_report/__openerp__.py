@@ -43,4 +43,6 @@ custom lunch report / group by product
     "installable": True,
     "auto_install": False,
     "application": True,
+    'price': 1.0
+    'currency': 'EUR'
 }
