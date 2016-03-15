@@ -3,7 +3,7 @@
 <data>
     <report
         id="action_report_lunch_order_custom_report"
-        string="Lunch Order custom report"
+        string="Lunch Order Grouped By Product"
         model="lunch.order.line"
         report_type="qweb-pdf"
         name="agora_lunch_custom_report.report_lunch_order_custom_report"
