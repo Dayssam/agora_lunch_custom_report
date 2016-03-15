@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
+#    Copyright (C) 2005-2016 Agora Developpement (<http://agoradeveloppement.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -23,7 +23,7 @@
 {
     "name" : "Agora Lunch Custom report",
     
-    "author" : "Mohamed HABOU",
+    "author" : "Red  ROUICHI",
     
     
     "licence" : "AGPL-3",
