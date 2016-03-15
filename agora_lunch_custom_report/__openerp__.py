@@ -23,7 +23,7 @@
 {
     "name" : "Agora Lunch Custom report",
     
-    "author" : "Red  ROUICHI",
+    "author" : "Reda ROUICHI",
     
     
     "licence" : "AGPL-3",
